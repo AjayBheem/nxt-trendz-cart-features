@@ -25,6 +25,15 @@ Dynamic total price calculations
 🌓 Responsive UI (Mobile + Desktop)
 
 ⚛️ Global State Management using Context API
+
+🔐 Demo Login Credentials
+
+Use these credentials to explore the app:
+Username: rahul
+Password: rahul@2021
+
+
+
 🛠️ Tech Stack
 | Frontend | State Mgmt  | Auth | Styling |
 | -------- | ----------- | ---- | ------- |
